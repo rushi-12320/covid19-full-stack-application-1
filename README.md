@@ -20,7 +20,8 @@ mongod (Start MongoDB database)
 
 mongoimport --uri "mongodb://127.0.0.1:27017/covid-19" --collection covid_statistics --file dummy_statistics.json
 ``````````````````````````
-
+Project is developed by:
+[Rushi Patel]:(https://www.linkedin.com/in/rushi-patel-193079266/)
 ### Server Installation
 ``````````````````````````
 cd server 
